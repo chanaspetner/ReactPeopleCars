@@ -47,7 +47,7 @@ class DeleteCars extends React.Component {
                     </tbody>
                 </table>
                 <div className='row'>
-                    <h1>Are you sure you want to delete all fo these cars?</h1>
+                    <h1>Are you sure you want to delete all of these cars?</h1>
                 </div>
                 <div className='row'>
                     <div className='col md-6'>
